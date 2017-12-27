@@ -1,4 +1,4 @@
-Topic Id|Label|NrDominants||||||||||
+Topic Id|Label|NrDominants|||||||||||
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 28|User Interface (Table) |1512| monotouch| dialog| ios| view| uitableview| custom| cell| tableview| uiview| add
 23|User Interface (Layout)|1504| forms| layout| size| image| height| view| ios| scrollview| set| width

@@ -1,3 +1,7 @@
+Topics from:
+Christoffer Rosen and Emad Shihab. What are mobile developers asking about? a large scale study using stack overflow. Empirical Softw. Engg., 21(3):1192–1223, June 2016. ISSN 1382-3256. doi: 10.1007/s10664- 015- 9379- 3. URL http://dx.doi.org/10.1007/ s10664- 015- 9379- 3.
+
+
 Topic|Classification|KeyWords|||||||||||||||||||
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 1|Input|touch|event|android|events|view|uiscrollview|drag|gesture|iphone|zoom|ios|cocoa|detect|uiview|uibutton|tap|image|drop|click
