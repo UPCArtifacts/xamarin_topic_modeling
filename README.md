@@ -25,7 +25,7 @@ Contact: Matias Martinez,  matias.martinez@univ-valenciennes.fr
 
 ## Main Topics
 
-[Topics from Xamarin Forum](xam_topics.md.md)
+[Topics from Xamarin Forum](xam_topics.md)
 
 
 [Topics from Stack Overflow](SO_topics.md)
