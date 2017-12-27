@@ -6,9 +6,9 @@ Contact: Matias Martinez,  matias.martinez@univ-valenciennes.fr
 
 ## Xamarin-related Q&A datasets
 
-[Xamarin Forum](dataset/so_xam_sept_2017.sql.zip)
+[Xamarin Forum](datasets/so_xam_sept_2017.sql.zip)
 
-[Stack Overflow](xam_forum_sept_2017.sql.zip)
+[Stack Overflow](datasets/xam_forum_sept_2017.sql.zip)
 
 ## Tags Related to Xamarin technology
 
