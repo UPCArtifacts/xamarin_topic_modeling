@@ -1,6 +1,8 @@
 # Appendix of `Discovering discussion topics about development of cross-platform mobile applications using a cross-compiler development framework'
 
 
+[Download paper](https://arxiv.org/abs/1712.09569)
+
 Contact: Matias Martinez,  matias.martinez@univ-valenciennes.fr
 
 
@@ -58,5 +60,5 @@ Contact: Matias Martinez,  matias.martinez@univ-valenciennes.fr
 
 if you use the dataset, please site our work:
 
-Discovering discussion topics about development of cross-platform mobile applications using a cross-compiler development framework, M.Martinez and S.Lecomte.
+Discovering discussion topics about development of cross-platform mobile applications using a cross-compiler development framework, M.Martinez and S.Lecomte. arXiv:1712.09569 
 
