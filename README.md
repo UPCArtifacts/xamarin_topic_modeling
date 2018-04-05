@@ -1,4 +1,4 @@
-# Appendix of `Discovering discussion topics about development of cross-platform mobile applications using a cross-compiler development framework'
+# Appendix of `Discovering discussion topics about development of cross-platform mobile applications using Xamarin framework'
 
 
 [Download paper](https://arxiv.org/abs/1712.09569)
@@ -47,7 +47,7 @@ Contact: Matias Martinez,  matias.martinez@univ-valenciennes.fr
 
 ## Relation between topics
 
-[Relation between topics from Xamarin Forum and Stack Overflow](rosen_topics.md)
+[Relation between topics from Xamarin Forum and Stack Overflow](mapping_intra.md)
 
 
 [Relation between topics from Xamarin Forum and Rosen and Shihab 2016](xam_mapping_rosen.md)
