@@ -1,4 +1,4 @@
-# Appendix of `Discovering discussion topics about development of cross-platform mobile applications using Xamarin framework'
+# Appendix of `Two Datasets of Questions and Answers for Studying the Development of Cross-platform Mobile Applications using Xamarin Framework'
 
 
 ## Xamarin-related Q&A datasets
