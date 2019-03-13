@@ -1,6 +1,12 @@
 # Appendix of `Two Datasets of Questions and Answers for Studying the Development of Cross-platform Mobile Applications using Xamarin Framework'
 
 
+If you use these datasets, plese cite the paper:
+
+
+Two Datasets of Questions and Answers for Studying the Development of Cross-platform Mobile Applications using Xamarin Framework. M.Martinez. 6th IEEE/ACM International Conference on Mobile Software Engineering and Systems (MobileSoft 2019). https://arxiv.org/abs/1712.09569
+
+
 ## Xamarin-related Q&A datasets
 
 [Xamarin Forum](datasets/so_xam_sept_2017.sql.zip)
